@@ -1,6 +1,19 @@
 ﻿**Тема проекта «Проектирование маркетплейса»**
 
+**Оглавление**
+
+[1. Требования](#m1)
+
+[2. System Design](#m2)
+
+[3. Wireframe](#m3)
+
+[4. Er диаграмма](#m4)
+
+[5. Разработка спецификации OpenAPI для маркетплейса](#m5)
+
 ***Требования***
+<a name="m1"></a>
 
 Функциональные требования:
 <br>
@@ -23,16 +36,19 @@
 
 
 **System Design**
+<a name="m2"></a>
 
 ![Image alt](https://github.com/dmatwe/marketplace2025/blob/main/img/systemd.png)
 
 
 ***Wireframe***
+<a name="m3"></a>
 
 ![Image alt](https://github.com/dmatwe/marketplace2025/blob/main/img/wireframe.png)
 
 
 ***Er диаграмма***
+<a name="m4"></a>
 
 ![Image alt](https://github.com/dmatwe/marketplace2025/blob/main/img/er.png)
 
@@ -98,6 +114,7 @@ entity Токен {
 
 
 ***Разработка спецификации OpenAPI для маркетплейса*** 
+<a name="m5"></a>
 
 [YAML FILE](https://github.com/dmatwe/marketplace2025/blob/main/file/openapi.yaml)
 
