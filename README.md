@@ -20,3 +20,8 @@
 <br> 
 1. Отзывчивость системы (быстрая загрузка страницы)
 2. Высокая доступность (площадка всегда доступна)
+
+
+**System Design**
+
+![Image alt](https://github.com/dmatwe/marketplace2025/blob/main/img/systemd.png)
